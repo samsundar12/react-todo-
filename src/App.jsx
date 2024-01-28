@@ -1,4 +1,4 @@
-import '../Pages/App.Css';
+
 import Todo from './Pages/Todo';
 import React, { useState, useEffect } from 'react';
 
