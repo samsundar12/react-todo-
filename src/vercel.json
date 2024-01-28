@@ -1,1 +1,12 @@
-{"Rewrites":[{"src":"/(.*)","destination":"/"}]}
+{
+    "routes":[
+        {
+            "src":"/",
+            "dest": "/"
+        },
+        {
+            "src":"/test",
+            "dest": "/"
+        }
+    ]
+}
